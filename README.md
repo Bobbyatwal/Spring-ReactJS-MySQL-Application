@@ -6,9 +6,9 @@ of powerful libraries such as MomentJS, React Router, and Bootstrap.
 
 
 The BEER table in the H2 database has the following schema:
-ID - INTEGER PK
-NAME - VARCHAR(100) NOT NULL UNIQUE
-DESCRIPTION - VARCHAR(4000)
-ABV - DOUBLE
-IBU - INTEGER
-CREATE_DATE - TIMESTAMP NOT NULL
+ID - INTEGER PK. 
+NAME - VARCHAR(100) NOT NULL UNIQUE. 
+DESCRIPTION - VARCHAR(4000). 
+ABV - DOUBLE. 
+IBU - INTEGER. 
+CREATE_DATE - TIMESTAMP NOT NULL. 
