@@ -5,7 +5,7 @@ of powerful libraries such as MomentJS, React Router, Axios Library, and Bootstr
 
 
 
-The BEER table in the H2 database has the following schema:
+The BEER table in the H2 database has the following schema:<br />
 ID - INTEGER PK.  <br />
 NAME - VARCHAR(100) NOT NULL UNIQUE. <br />
 DESCRIPTION - VARCHAR(4000). <br />
