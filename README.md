@@ -1,5 +1,5 @@
 # Spring-ReactJS-MySQL-Application
-Full Stack Web Appliaction utilizing Spring Framework with ReactJS and MySQL database to create and apply RESTful API's with an emphasis on database CRUD operations.
+Full Stack Web Appliaction utilizing Spring Framework with ReactJS and MySQL database to create and apply RESTful API's with an emphasis on database CRUD operations. ---Application connects to a beer database that allows users to add, search, view, update, and delete beers.
 Back-End was built with powerful Spring JPA library, Spring annotations, and Java Hibernate which allowed for efficient setup and development. Front-End was created through ReactJS with implementations 
 of powerful libraries such as MomentJS, React Router, and Bootstrap. 
 
